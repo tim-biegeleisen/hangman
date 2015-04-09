@@ -1,2 +1,2 @@
 # hangman
-trying out jenkins w/ Hassan, Tot, Hoff &amp; Eis
+trying out jenkins w/ Hassan, Tot, Hoff, David &amp; Eis
